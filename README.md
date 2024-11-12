@@ -1,5 +1,5 @@
 Apex Crypter
-Apex Crypter is a powerful multi-layer encryption tool that allows users to securely encrypt and decrypt text files using various encryption methods combined for maximum security. With a user-friendly interface, Apex Crypter offers a quick and accessible way to apply complex encryption to sensitive data, ensuring privacy and protection.
+Apex Crypter is a  multi-layer encryption tool that allows users to encrypt and decrypt text files using various encryption methods combined for maximum security. With a user-friendly interface, Apex Crypter offers a quick and accessible way to apply encryption to sensitive data, ensuring privacy and protection.
 
 Features
 Seven-layer Encryption: Uses multiple encryption techniques sequentially for enhanced data security.
