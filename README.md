@@ -20,3 +20,8 @@ Decrypt Text: Use the “Browse / Import” button to load an encrypted file and
 Author & Version
 Author: VOYXXY
 Version: 1.0
+
+
+We belive in Open Source 
+- Our .exe script is not crypted and can be acssesed by anyone
+- Changes can be done to the script without any problems
