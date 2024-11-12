@@ -25,3 +25,6 @@ Version: 1.0
 We belive in Open Source 
 - Our .exe script is not crypted and can be acssesed by anyone
 - Changes can be done to the script without any problems
+
+Can i crypt everything ?
+- No , by now you can only crypt text we are working on a file system right now
