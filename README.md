@@ -30,4 +30,4 @@ Can i crypt everything ?
 - No , by now you can only crypt text we are working on a file system right now
 
 the anti virus scanned it as a malware 
-- Yes tahts becouse our script is using crypton methoded that are often used in malware 
+- Yes tahts becouse our script is using crypton methodes that are often used in malware 
